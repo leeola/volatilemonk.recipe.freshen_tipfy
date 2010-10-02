@@ -31,7 +31,7 @@ setup(
     ],
     entry_points = {
         'zc.buildout': [
-            'default = freshenhelper.recipes:Recipe',
+            'default = freshentipfy.recipes:Recipe',
             ],
         },
     classifiers = [
