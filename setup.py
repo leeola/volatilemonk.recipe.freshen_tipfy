@@ -15,7 +15,7 @@ setup(
     name = 'freshen_tipfy',
     version = '0.0.0',
     license = 'MIT',
-    url = 'http://www.tipfy.org/wiki/extensions/freshen_helper',
+    url = '',
     description = ('Provides a bin/script to easily run a freshen bdd test'
                    'with nosegae.'),
     long_description = __doc__,
