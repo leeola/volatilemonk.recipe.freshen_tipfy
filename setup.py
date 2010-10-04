@@ -13,7 +13,7 @@ from setuptools import setup
 
 setup(
     name = 'freshen_tipfy',
-    version = '0.0.0',
+    version = '0.1.0',
     license = 'MIT',
     url = '',
     description = ('Provides a bin/script to easily run a freshen bdd test'
